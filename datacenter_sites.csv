@@ -1,0 +1,8 @@
+csv
+City,Country,Solar_Irradiance_kWh,Wind_Speed_ms,Avg_Ambient_Temp_C,Grid_Green_Energy_Pct,Geothermal_Gradient_C_km,EGS_Feasibility_Score,Fiber_Backbone_Proximity_km,Tax_Incentive_Score,Seismic_Risk_Score
+Reykjavik,Iceland,650,8.5,5,100,50,10,5,8,1
+Austin,USA,1850,4.2,21,45,25,4,2,9,2
+Lulea,Sweden,800,5.1,3,95,15,2,4,8,1
+Singapore,Singapore,2100,2.5,27,5,35,6,1,10,3
+Zaragoza,Spain,1600,6.0,15,60,30,5,8,7,2
+Queretaro,Mexico,1950,3.8,18,30,40,7,6,8,3
